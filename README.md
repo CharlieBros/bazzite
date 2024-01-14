@@ -306,6 +306,13 @@ sudo mokutil --import secure_boot_key.der
 <table>
 <tr>
     <td align="center">
+        <a href="https://github.com/CharlieBros">
+            <img src="https://avatars.githubusercontent.com/u/8083960?v=4" width="100;" alt="CharlieBros"/>
+            <br />
+            <sub><b>CharlieBros</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/KyleGospo">
             <img src="https://avatars.githubusercontent.com/u/10704358?v=4" width="100;" alt="KyleGospo"/>
             <br />
@@ -339,15 +346,15 @@ sudo mokutil --import secure_boot_key.der
             <br />
             <sub><b>castrojo</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/RodoMa92">
             <img src="https://avatars.githubusercontent.com/u/16669146?v=4" width="100;" alt="RodoMa92"/>
             <br />
             <sub><b>RodoMa92</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/dnkmmr69420">
             <img src="https://avatars.githubusercontent.com/u/104856296?v=4" width="100;" alt="dnkmmr69420"/>
@@ -382,20 +389,13 @@ sudo mokutil --import secure_boot_key.der
             <br />
             <sub><b>sekalengrengginang</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Zindswini">
             <img src="https://avatars.githubusercontent.com/u/7989183?v=4" width="100;" alt="Zindswini"/>
             <br />
             <sub><b>Zindswini</b></sub>
-        </a>
-    </td></tr>
-<tr>
-    <td align="center">
-        <a href="https://github.com/CharlieBros">
-            <img src="https://avatars.githubusercontent.com/u/8083960?v=4" width="100;" alt="CharlieBros"/>
-            <br />
-            <sub><b>CharlieBros</b></sub>
         </a>
     </td>
     <td align="center">
